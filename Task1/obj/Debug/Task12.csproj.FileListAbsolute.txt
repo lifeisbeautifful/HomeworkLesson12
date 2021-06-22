@@ -1,0 +1,7 @@
+C:\Users\Oksana\source\repos\Task12\Task12\bin\Debug\Task12.exe.config
+C:\Users\Oksana\source\repos\Task12\Task12\bin\Debug\Task12.exe
+C:\Users\Oksana\source\repos\Task12\Task12\bin\Debug\Task12.pdb
+C:\Users\Oksana\source\repos\Task12\Task12\obj\Debug\Task12.csprojAssemblyReference.cache
+C:\Users\Oksana\source\repos\Task12\Task12\obj\Debug\Task12.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\source\repos\Task12\Task12\obj\Debug\Task12.exe
+C:\Users\Oksana\source\repos\Task12\Task12\obj\Debug\Task12.pdb
